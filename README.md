@@ -1,9 +1,5 @@
 ![student](https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/279771150_3106726496308918_9039136056781035028_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHFTt1DsCaoYzGu5DHd-S-_t-2I3x5D6bm37YjfHkPpuWwB4DJjulb_3diVKgqKOQhdlVw1LBIFMBz59-XNp7om&_nc_ohc=aHodCQWKxzMAX-r7IiH&tn=MS-t3065JzzOL0UQ&_nc_ht=scontent.fdac136-1.fna&oh=00_AT9zmkemX2d63qDIAaNd2JJsiu-DkkL1kOpitFbJoIzAOQ&oe=62F348AD)
 
-
-
-**rafi7337/rafi7337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋, I'm Tanvir Islam Rafi
 #### student
 
